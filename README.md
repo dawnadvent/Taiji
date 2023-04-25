@@ -12,7 +12,7 @@ Taiji-Golang高并发红队打点横向移动内网渗透扫描器（主机存�
 Taiji -h
 ```
 
-![](./img\README\image-20230426053341325.png)
+![](./img/README/image-20230426053341325.png)
 
 ## 资产梳理（基本用法）
 
@@ -32,7 +32,7 @@ Taiji -ip 192.168.12.1/24
 Taiji -ip urls.txt -m webscan
 ```
 
-![](./img\README\image-20230426053302751.png)
+![](./img/README/image-20230426053302751.png)
 
 ## 网站图标hash计算
 
@@ -40,7 +40,7 @@ Taiji -ip urls.txt -m webscan
 Taiji -ip 8.1xx.1xx.39 -port 8885 -m icon_hash
 ```
 
-![](./img\README\image-20230426053002305.png)
+![](./img/README/image-20230426053002305.png)
 
 ## 密码喷洒
 
@@ -62,5 +62,5 @@ Taiji -ip 192.168.12.1/24 -vuln -port 22 -user root -pwd root@123
 
 ### 地址：[https://wintrysec.github.io](https://wintrysec.github.io/)
 
-[![wiki](./img\README\image-20230423200400217.png)](https://github.com/wintrysec/FindSubs/blob/master/img/image-20230423200400217.png)
+[![wiki](./img/README/image-20230423200400217.png)](https://github.com/wintrysec/FindSubs/blob/master/img/image-20230423200400217.png)
 
